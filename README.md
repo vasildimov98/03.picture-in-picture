@@ -4,7 +4,7 @@
 
 Check it out:
 
-https://vasildimov98.github.io/02.Infinite-scroll/
+https://vasildimov98.github.io/03.picture-in-picture/
 
 ## Description
 
